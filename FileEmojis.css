@@ -1,0 +1,9 @@
+ /*.nav-folder-title[data-path="media"] .nav-folder-title-content::before {*/
+  /*content: "📥 ";*/
+  /*font-size: var(--font-small);*/
+/*}*/
+
+/*.nav-folder-title[data-path="+Obsidian"] .nav-folder-title-content::before {*/
+  /*content: "⚙️ ";*/
+  /*font-size: 1.3em;*/
+/*} */

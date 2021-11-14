@@ -1,0 +1,21 @@
+/*.fullwidth {*/
+/*--line-width: 10%; [> Maximum characters per line <]*/
+/*color: red;*/
+/*}*/
+/*.fullwidth > .markdown-source-view.mod-cm5.is-readable-line-width {*/
+/*--line-width: 100%; [> Maximum characters per line <]*/
+/*}*/
+.fullwidth {
+  --line-width-adaptive: 95% !important;
+  --max-width: 95% !important;
+  --line-width: 95% !important;
+}
+
+/* .fullwidth ~ .CodeMirror {
+  width: 95% !important;
+  max-width: 95% !important;
+}
+
+.fullwidth ~ .view-header-title-container {
+  width: 95%;
+} */

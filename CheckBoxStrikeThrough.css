@@ -1,0 +1,32 @@
+/* check box */
+.markdown-preview-view ul > li.task-list-item.is-checked {
+  text-decoration: line-through;
+  font-style: italic;
+  color: gray;
+  filter: grayscale(100%);
+}
+
+.markdown-preview-view ol > li.task-list-item.is-checked {
+  text-decoration: line-through;
+  font-style: italic;
+  color: gray;
+  filter: grayscale(100%);
+}
+
+.markdown-preview-view ul > li.task-list-item.is-checked p {
+  font-style: italic;
+}
+
+.markdown-preview-view ol > li.task-list-item.is-checked p {
+  font-style: italic;
+}
+
+input[type="checkbox"] {
+  border: 1px solid var(--text-muted);
+  padding: 0;
+}
+input[type="checkbox"]:focus,
+input[type="checkbox"]:hover {
+  outline: 0;
+  border-color: var(--text-muted);
+}

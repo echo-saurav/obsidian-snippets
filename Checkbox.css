@@ -1,0 +1,30 @@
+.cm-formatting.cm-formatting-list.cm-formatting-list-ul.cm-list-1::before{
+	content: "⚫";
+	font-size: .5em;
+	vertical-align: middle;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+
+
+.cm-formatting.cm-formatting-list.cm-formatting-list-ul.cm-list-2::before{
+	content: "⚫";
+	font-size: .5em;
+	vertical-align: middle;
+	margin-right: 10px;
+	margin-left: 20px;
+}
+
+
+
+.cm-formatting.cm-formatting-list.cm-formatting-list-ul.cm-list-3::before{
+	content: "⚫";
+	font-size: .5em;
+	vertical-align: middle;
+	margin-right: 10px;
+	margin-left: 30px;
+}
+
+
+

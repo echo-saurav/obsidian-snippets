@@ -1,0 +1,10 @@
+.contains-task-list .task-list-item span > a {
+  font-size: 10px;
+}
+.contains-task-list .task-list-item span {
+  color: transparent;
+}
+.contains-task-list .task-list-item span .tasks-edit {
+  display: none;
+}
+

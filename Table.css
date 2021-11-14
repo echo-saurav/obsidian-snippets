@@ -1,0 +1,22 @@
+.markdown-preview-view table {
+  width: 100%;
+  margin-top: 15px;
+  border: 0.5px solid var(--text-faint);
+}
+.markdown-preview-view th {
+  text-align: left;
+  padding: 3px;
+  color: white;
+  padding-left: 10px !important;
+
+  border: 0.5px solid var(--text-faint);
+}
+
+.markdown-preview-view td {
+  border: 0.5px solid var(--text-faint);
+  padding-left: 10px !important;
+}
+.markdown-preview-view tr {
+  border: 0.5px solid var(--text-faint);
+  padding-left: 10px !important;
+}

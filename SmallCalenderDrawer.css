@@ -1,0 +1,9 @@
+/*.is-mobile .workspace-drawer:not(.is-pinned) {*/
+	/*width: 90vw !important;*/
+/*}*/
+
+
+.is-mobile .workspace-drawer:not(.is-pinned):is(.mod-right){
+	width: 80vw !important;
+}
+

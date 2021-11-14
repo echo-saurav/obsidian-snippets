@@ -1,0 +1,8 @@
+.theme-dark .markdown-preview-view img {
+  opacity: 1;
+  transition: opacity 0.25s linear;
+}
+.theme-dark .markdown-preview-view img:hover {
+  opacity: 1;
+  transition: opacity 0.25s linear;
+}

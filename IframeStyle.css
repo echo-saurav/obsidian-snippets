@@ -1,0 +1,7 @@
+iframe {
+  border: none; /* Reset default border */
+  height: 100vh; /* Viewport-relative units */
+  width: 100%;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}

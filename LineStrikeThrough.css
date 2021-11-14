@@ -1,0 +1,11 @@
+del {
+  font-style: italic;
+  color: gray !important;
+  filter: grayscale(100%) !important;
+}
+del a {
+  font-style: italic;
+  color: gray !important;
+  filter: grayscale(100%) !important;
+}
+

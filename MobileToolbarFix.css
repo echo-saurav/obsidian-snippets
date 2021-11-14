@@ -1,0 +1,9 @@
+.mobile-toolbar-options-container{
+	padding: 20px 20px !important;
+}
+.mobile-toolbar{
+	height: 60px !important;
+}
+.mobile-toolbar-option{
+	min-width: 40px;
+}

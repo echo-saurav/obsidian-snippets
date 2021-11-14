@@ -1,0 +1,13 @@
+/* Hide the query text */
+.internal-query-header-title {
+    display: none;
+}
+
+/* Force embedded searches to fill the height of their results, rather than be scrollable */
+.markdown-preview-view .internal-query.is-embed .search-results-children {
+    height: fit-content;
+    min-height: fit-content;
+    max-height: none;
+}
+
+

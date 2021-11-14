@@ -1,0 +1,10 @@
+.is-mobile .side-dock-ribbon{
+	width: 53px;
+}
+.is-mobile .mod-left .workspace-drawer-header, .is-mobile .mod-left .workspace-drawer-tab-container{
+	margin-left: 50px;
+}
+
+body:not(.is-ios).is-mobile .workspace-drawer-ribbon{
+	padding: 0;	
+}

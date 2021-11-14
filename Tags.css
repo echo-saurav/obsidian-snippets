@@ -1,0 +1,56 @@
+.tag {
+  background-color: #1c336a !important;
+  border: none;
+  color: white !important;
+  font-style: normal;
+  display: inline-block;
+}
+
+.tag:hover {
+  font-style: normal;
+  color: white;
+  background-color: #1c336a;
+}
+
+.cm-hashtag {
+  background-color: #1c336a !important;
+  color: white !important;
+}
+
+/* ---------custom tag pill--------- */
+
+/* important */
+.tag[href^="#important"] {
+  background-color: red !important;
+}
+
+.cm-tag-important {
+  background-color: red !important;
+}
+
+/* p1 */
+.tag[href^="#p1"] {
+  background-color: #e11d21 !important;
+}
+
+.cm-tag-p1 {
+  background-color: #e11d21 !important;
+}
+
+/* p2 */
+.tag[href^="#p2"] {
+  background-color: #ca5100 !important;
+}
+
+.cm-tag-p2 {
+  background-color: #ca5100 !important;
+}
+
+/* p3 */
+.tag[href^="#p3"] {
+  background-color: #25a65d !important;
+}
+
+.cm-tag-p3 {
+  background-color: #25a65d !important;
+}
